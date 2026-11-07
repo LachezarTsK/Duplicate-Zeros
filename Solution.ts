@@ -1,7 +1,4 @@
 
-/**
- Do not return anything, modify arr in-place instead.
- */
 function duplicateZeros(input: number[]): void {
     let countZeros = 0;
     for (let value of input) {
