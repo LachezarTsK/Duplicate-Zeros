@@ -1,7 +1,7 @@
 
 /**
  * @param {number[]} input
- * @return {void} Do not return anything, modify arr in-place instead.
+ * @return {void}
  */
 var duplicateZeros = function (input) {
     let countZeros = 0;
